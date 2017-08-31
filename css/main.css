@@ -1,0 +1,76 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#headerWrapper{
+	position: relative;
+	padding: 0px;
+	margin: -20px;
+	overflow: hidden;
+	height: 650px;
+	background-image: url("../img/background.png");
+	background-repeat: no-repeat;
+	background-size:  100% 700px;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#logotext{
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Pacifico', cursive;
+
+	font-size: 100px;
+
+	text-align: center;
+	padding: 20%;
+	color: white;
+}
+
+
+
+
+
+.img-thumbnail{
+	width: auto;
+	height: 200px;
+}
+
+
+#footer{
+	margin-top: 50px;
+	height: 100px;
+	background: black;
+	color: white;
+	padding: 40px;
+	width: 100%;
+}
+
+img.details{
+	
+	margin: 15px auto;
+}
+
+#table{
+	width: auto;
+	margin-top: 60px;
+	margin: 0px auto;
+}
+
+#brand-text{
+	margin-top: 50px;
+}
+
+#desc{
+	resize: none;
+}
